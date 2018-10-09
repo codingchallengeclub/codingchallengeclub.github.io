@@ -1,0 +1,17 @@
+# =============================================================================
+# SETTINGS
+# =============================================================================
+
+title: Coding Challenge Club
+description: This is the site for Coding Challenge Club
+email: admin@codingchallenge.club
+
+menu:
+- title: About
+  url: '#about'
+
+social:
+- icon: instagram
+  url:
+- icon: twitter
+  url:
